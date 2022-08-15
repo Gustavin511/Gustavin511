@@ -4,7 +4,9 @@
 - &#128125; Eu estou interessado em aprender e programar novas linguagens 
 - 🌱 eu estou aprendendo a programar recentemente a linguagem do JavaScript e Scratch
 
-![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![javascript](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![scratch](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- Meu discord de contato é Gustavo_IGL #
+- Meu discord de contato é Gustavo_IGL #6417
+
+![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
